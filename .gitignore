@@ -1,6 +1,6 @@
 # Ignore data folders
-sourcedata/*
-results/*
+sourcedata/
+results/
 
 
 # Byte-compiled / optimized / DLL files
